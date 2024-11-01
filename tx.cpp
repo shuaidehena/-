@@ -1,1 +1,7 @@
-wiffw#include <iso>
+#include <iostream>	
+using namespace std;
+int main()
+{
+	return 0;
+
+}
